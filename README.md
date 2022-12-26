@@ -3,7 +3,7 @@ Standard Games Coded Using Python Turtle Graphics
 
 ## Screenshots:
 
-![Tic Tac Toe](https://user-images.githubusercontent.com/120439586/209494280-3a99bafa-1353-4cdf-8d83-1e990286ab75.png)
+![Tic Tac Toe](https://user-images.githubusercontent.com/120439586/209495813-804a8e03-7efd-4f5b-8f08-ab96d9f0722a.png)
 ### Tic Tac Toe
 
 ![Hangman](https://user-images.githubusercontent.com/120439586/209494284-06eab470-0248-41b4-bb96-d1159e300fbb.png)
