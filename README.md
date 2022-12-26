@@ -1,5 +1,5 @@
 # Python-Games
-Standard games coded using Python Turtle Graphics
+Standard Games Coded Using Python Turtle Graphics
 
 ## Screenshots:
 
