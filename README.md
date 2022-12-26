@@ -12,7 +12,8 @@ Standard Games Coded Using Python Turtle Graphics
 
 ## Understanding this Repository
 
-This repository contains two game folders. Both of their main.py files can be run on their own.
+This repository contains two game folders. Both of their main.py files can be run on their own without relying on
+other files within the directory.
 
 
 ## About Each Project
